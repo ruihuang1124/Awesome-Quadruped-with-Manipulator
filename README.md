@@ -23,6 +23,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## Paper List
 ### With Whole-Body Control (WBC)
+- [arXiv 2025.08](https://arxiv.org/abs/2508.08240) **ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks.** [🌐Website](https://kaijwang.github.io/odyssey.github.io/)
 - [arXiv 2025.08](https://arxiv.org/abs/2508.08328) **Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators.** [🌐Website](https://kolakivy.github.io/DQ/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.16986) **Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleratio.** 
 - [Science Robotics 2025](https://www.science.org/doi/epdf/10.1126/scirobotics.adu3922) **Learning coordinated badminton skills for legged manipulators.** 
