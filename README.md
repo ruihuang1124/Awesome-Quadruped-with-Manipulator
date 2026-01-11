@@ -23,6 +23,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## Paper List
 ### With Whole-Body Control (WBC)
+- [arXiv 2025.12](https://arxiv.org/abs/2512.18938) **A Framework for Deploying Learning-based Quadruped Loco-Manipulation.** 
 - [arXiv 2025.10](https://arxiv.org/pdf/2510.09221) **HANDO: Hierarchical Autonomous Navigation and Dexterous Omni-loco-manipulation.** 
 - [arXiv 2025.08](https://arxiv.org/abs/2508.13151) **Manipulate-to-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors.** 
 - [arXiv 2025.08](https://arxiv.org/abs/2508.08240) **ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for Long-Horizon Tasks.** [🌐Website](https://kaijwang.github.io/odyssey.github.io/)
