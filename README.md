@@ -23,6 +23,9 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## Paper List
 ### With Whole-Body Control (WBC)
+- [arXiv 2026.03](https://arxiv.org/pdf/2603.02443) **Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control.** 
+- [arXiv 2026.02](https://arxiv.org/pdf/2602.04214) **ALORE: Autonomous Large-Object Rearrangement with a Legged Manipulator.** [🌐Website](https://zhihaibi.github.io/Alore/), [🌟Code](https://github.com/Zhihaibi/ALORE_Legged_Manipulator)
+- [arXiv 2026.01](https://arxiv.org/abs/2601.03956) **CoINS: Counterfactual Interactive Navigation via Skill-Aware VLM.** [🌐Website](https://coins-internav.github.io/), [🌟Code](https://github.com/Zhihaibi/ALORE_Legged_Manipulator)
 - [arXiv 2025.12](https://arxiv.org/abs/2512.18938) **A Framework for Deploying Learning-based Quadruped Loco-Manipulation.** 
 - [arXiv 2025.10](https://arxiv.org/pdf/2510.09221) **HANDO: Hierarchical Autonomous Navigation and Dexterous Omni-loco-manipulation.** 
 - [arXiv 2025.08](https://arxiv.org/abs/2508.13151) **Manipulate-to-Navigate: Reinforcement Learning with Visual Affordances and Manipulability Priors.** 
@@ -34,6 +37,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [Science Robotics 2025](https://www.science.org/doi/epdf/10.1126/scirobotics.adu3922) **Learning coordinated badminton skills for legged manipulators.** 
 - [arXiv 2025.05](https://arxiv.org/abs/2505.20829) **Learning Unified Force and Position Control for Legged Loco-Manipulation.** [🌐Website](https://unified-force.github.io/) 
 - [ICRA 2025](https://arxiv.org/abs/2411.06782) **QuadWBG: Generalizable Quadrupedal Whole-Body Grasping.** [🌐Website](https://quadwbg.github.io/)
+- [IROS 2025](http://staff.ustc.edu.cn/~zkan/Papers/Conference/[60]_IROS2025_Yin.pdf) **A Unified Framework to Learn Collision-Free Loco-Manipulation via Adversarial Motion Priors.** 
 - [arXiv 2025.05](https://arxiv.org/abs/2503.01474) **Interactive Navigation for Legged Manipulators with Learned Arm-Pushing Controller.** 
 - [arXiv 2024.10](https://arxiv.org/abs/2410.00231) **Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models.** [🌐Website](https://helpful-doggybot.github.io/), [🌟Code](https://github.com/WooQi57/Helpful-Doggybot)
 - [arXiv 2024.10](https://arxiv.org/abs/2410.05681) **Whole-Body Dynamic Throwing with Legged Manipulators.** 
@@ -66,6 +70,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [Arxiv 2024](https://arxiv.org/abs/2405.07445) **Cybathlon - Legged Mobile Assistance for Quadriplegics.**
 - [ECCV 2024](https://arxiv.org/abs/2405.01527) **Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation.** [🌐Website](https://homangab.github.io/track2act/), [🌟Code](https://github.com/homangab/Track-2-Act/)
 - [CoRL 2024](https://arxiv.org/abs/2408.01258) **Jacta: A Versatile Planner for Learning Dexterous and Whole-body Manipulation.** [🌐Website](https://jacta-manipulation.github.io/)
+- [CoRL 2024](https://arxiv.org/pdf/2410.13817) **Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation.** [🌐Website](https://leggedrobotics.github.io/guided-rl-locoma/)
 - [CoRL 2024](https://continual-mobile-manip.github.io/) **Continuously Improving Mobile Manipulation with Autonomous Real-World RL.** [🌐Website](https://geff-b1.github.io/)
 - [ICRA 2024](https://arxiv.org/abs/2309.15459) **GAMMA: Graspability-Aware Mobile MAnipulation Policy Learning based on Online Grasping Pose Fusion.** [🌐Website](https://pku-epic.github.io/GAMMA/), [🌟Code](https://github.com/user432/gamma)
 - [ICRA 2024](https://kl-research.github.io/files/ICRA2024_Kai_v2.pdf) **Learning to Catch Reactive Objects with a Behavior Predictor** [🌐Website](https://kl-research.github.io/dyncatch)
