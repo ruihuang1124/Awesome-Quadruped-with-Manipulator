@@ -23,6 +23,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 
 ## Paper List
 ### With Whole-Body Control (WBC)
+- [arXiv 2026.04](https://arxiv.org/pdf/2604.08508) **Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation.** [🌐Website](https://sumo.rai-inst.com/), [🌟Code](https://github.com/rai-opensource/sumo/tree/main)
 - [arXiv 2026.03](https://arxiv.org/pdf/2603.02443) **Safe Whole-Body Loco-Manipulation via Combined Model and Learning-based Control.** 
 - [arXiv 2026.02](https://arxiv.org/pdf/2602.04214) **ALORE: Autonomous Large-Object Rearrangement with a Legged Manipulator.** [🌐Website](https://zhihaibi.github.io/Alore/), [🌟Code](https://github.com/Zhihaibi/ALORE_Legged_Manipulator)
 - [arXiv 2026.01](https://arxiv.org/abs/2601.03956) **CoINS: Counterfactual Interactive Navigation via Skill-Aware VLM.** [🌐Website](https://coins-internav.github.io/), [🌟Code](https://github.com/Zhihaibi/ALORE_Legged_Manipulator)
