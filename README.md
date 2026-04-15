@@ -101,7 +101,7 @@ Feel free to open a pull request for adding new papers, datasets, or codebases r
 - [Unitree Robotics AlienGo + Z1 for Fire Rescue](https://www.youtube.com/watch?v=7CVwGY65In8)
 - [Hey Buddy, Can You Give Me a Hand?](https://www.youtube.com/watch?v=fUyU3lKzoio)
 - [機器狗也瘋K-POP](https://www.youtube.com/watch?v=hdir2OQWAXw)
-- [【樹莓派5】PuppyPi Arm仿生四足手臂狗](https://www.youtube.com/watch?v=Lw3x7dmmQss)
+- [樹莓派5 PuppyPi Arm仿生四足手臂狗](https://www.youtube.com/watch?v=Lw3x7dmmQss)
 
 ## 📜 License
 MIT License
